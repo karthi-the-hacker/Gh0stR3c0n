@@ -1,0 +1,415 @@
+<html lang="en">
+
+<head>
+    <link rel="shortcut icon" type="image/jpg" href="https://cappriciosec.com/images/without-bg.png" />
+    <meta charset="UTF-8">
+    <title>Create Recon</title>
+
+    <style>
+        html {
+            height: 100%;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+
+            font-family: sans-serif;
+           
+        }
+
+        .login-box {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 700px;
+            padding: 40px;
+            transform: translate(-50%, -50%);
+            
+            backdrop-filter: blur(15px);
+            box-sizing: border-box;
+            box-shadow: 0 15px 25px rgba(0, 0, 0, .6);
+            border-radius: 10px;
+        }
+
+       
+        .login-box .user-box {
+            position: relative;
+        }
+
+        .login-box .user-box input {
+            width: 100%;
+            padding: 10px 0;
+            font-size: 16px;
+            color: black;
+            margin-bottom: 30px;
+            border: none;
+            border-bottom: 1px solid black;
+            outline: none;
+            background: transparent;
+        }
+
+        .login-box .user-box label {
+            position: absolute;
+            top: 0;
+            left: 0;
+            padding: 10px 0;
+            font-size: 16px;
+            color: #fff;
+            pointer-events: none;
+            transition: .5s;
+        }
+
+        .login-box .user-box input:focus~label,
+        .login-box .user-box input:valid~label {
+            top: -20px;
+            left: 0;
+            color: #00dcdc;
+            font-size: 12px;
+        }
+
+        .login-box form a {
+            position: relative;
+            display: inline-block;
+            padding: 10px 20px;
+            color: #00dcdc;
+            font-size: 16px;
+            text-decoration: none;
+            text-transform: uppercase;
+            overflow: hidden;
+            transition: .5s;
+            margin-top: 40px;
+            letter-spacing: 4px
+        }
+
+        .login-box a:hover {
+            background: #00dcdc;
+            color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 5px #00dcdc,
+                0 0 25px #00dcdc,
+                0 0 50px #00dcdc,
+                0 0 100px #00dcdc;
+        }
+
+        .login-box a span {
+            position: absolute;
+            display: block;
+        }
+
+        .login-box a span:nth-child(1) {
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #00dcdc);
+            animation: btn-anim1 1s linear infinite;
+        }
+
+        @keyframes btn-anim1 {
+            0% {
+                left: -100%;
+            }
+
+            50%,
+            100% {
+                left: 100%;
+            }
+        }
+
+        .login-box a span:nth-child(2) {
+            top: -100%;
+            right: 0;
+            width: 2px;
+            height: 100%;
+            background: linear-gradient(180deg, transparent, #00dcdc);
+            animation: btn-anim2 1s linear infinite;
+            animation-delay: .25s
+        }
+
+        @keyframes btn-anim2 {
+            0% {
+                top: -100%;
+            }
+
+            50%,
+            100% {
+                top: 100%;
+            }
+        }
+
+        .login-box a span:nth-child(3) {
+            bottom: 0;
+            right: -100%;
+            width: 100%;
+            height: 2px;
+            background: linear-gradient(270deg, transparent, #00dcdc);
+            animation: btn-anim3 1s linear infinite;
+            animation-delay: .5s
+        }
+
+        @keyframes btn-anim3 {
+            0% {
+                right: -100%;
+            }
+
+            50%,
+            100% {
+                right: 100%;
+            }
+        }
+
+        .login-box a span:nth-child(4) {
+            bottom: -100%;
+            left: 0;
+            width: 2px;
+            height: 100%;
+            background: linear-gradient(360deg, transparent, #00dcdc);
+            animation: btn-anim4 1s linear infinite;
+            animation-delay: .75s
+        }
+
+        @keyframes btn-anim4 {
+            0% {
+                bottom: -100%;
+            }
+
+            50%,
+            100% {
+                bottom: 100%;
+            }
+        }
+
+        html {
+            height: 100%;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: sans-serif;
+
+        }
+
+   
+
+        .login-box h2 {
+            margin: 0 0 30px;
+            padding: 0;
+            font-weight: 100;
+            font-size: 30;
+            color: black;
+            text-align: center;
+        }
+
+        .login-box .user-box {
+            position: relative;
+        }
+
+        .login-box .user-box input {
+            width: 100%;
+            padding: 10px 0;
+            font-size: 16px;
+            color: black;
+            margin-bottom: 30px;
+            border: none;
+            border-bottom: 1px solid black;
+            outline: none;
+            background: transparent;
+        }
+
+        .login-box .user-box label {
+            position: absolute;
+            top: 0;
+            left: 0;
+            padding: 10px 0;
+            font-size: 16px;
+            color: black;
+            pointer-events: none;
+            transition: .5s;
+        }
+
+        .login-box .user-box input:focus~label,
+        .login-box .user-box input:valid~label {
+            top: -20px;
+            left: 0;
+            color: #00dcdc;
+            font-size: 12px;
+        }
+
+        .login-box form a {
+            position: relative;
+            display: inline-block;
+            padding: 10px 20px;
+            color: #00dcdc;
+            font-size: 16px;
+            text-decoration: none;
+            text-transform: uppercase;
+            overflow: hidden;
+            transition: .5s;
+            margin-top: 40px;
+            letter-spacing: 4px
+        }
+
+        .login-box a:hover {
+            background: #00dcdc;
+            color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 5px #00dcdc,
+                0 0 25px #00dcdc,
+                0 0 50px #00dcdc,
+                0 0 100px #00dcdc;
+        }
+
+        .login-box a span {
+            position: absolute;
+            display: block;
+        }
+
+        .login-box a span:nth-child(1) {
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #00dcdc);
+            animation: btn-anim1 1s linear infinite;
+        }
+
+        @keyframes btn-anim1 {
+            0% {
+                left: -100%;
+            }
+
+            50%,
+            100% {
+                left: 100%;
+            }
+        }
+
+        .login-box a span:nth-child(2) {
+            top: -100%;
+            right: 0;
+            width: 2px;
+            height: 100%;
+            background: linear-gradient(180deg, transparent, #00dcdc);
+            animation: btn-anim2 1s linear infinite;
+            animation-delay: .25s
+        }
+
+        @keyframes btn-anim2 {
+            0% {
+                top: -100%;
+            }
+
+            50%,
+            100% {
+                top: 100%;
+            }
+        }
+
+        .login-box a span:nth-child(3) {
+            bottom: 0;
+            right: -100%;
+            width: 100%;
+            height: 2px;
+            background: linear-gradient(270deg, transparent, #00dcdc);
+            animation: btn-anim3 1s linear infinite;
+            animation-delay: .5s
+        }
+        .btt{
+            
+            align-items: center;
+        }
+
+        @keyframes btn-anim3 {
+            0% {
+                right: -100%;
+            }
+
+            50%,
+            100% {
+                right: 100%;
+            }
+        }
+
+        .login-box a span:nth-child(4) {
+            bottom: -100%;
+            left: 0;
+            width: 2px;
+            height: 100%;
+            background: linear-gradient(360deg, transparent, #00dcdc);
+            animation: btn-anim4 1s linear infinite;
+            animation-delay: .75s
+        }
+        .back{
+            
+            left: 56%;
+            
+        }
+
+        @keyframes btn-anim4 {
+            0% {
+                bottom: -100%;
+            }
+
+            50%,
+            100% {
+                bottom: 100%;
+            }
+        }
+    </style>
+
+</head>
+
+<body>
+    <style>
+        .bgl {
+            margin-top:120;
+            
+        }
+    </style>
+    <center><img class="bgl" src="https://karthithehacker.com/gh0str3c0n/img/q.png" weight="70%" height="70%" ></center>
+
+    <div class="login-box">
+        
+        <h2>Create Recon</h2>
+        <form id="GFG" action="http://127.0.0.1:8000/create" method="post" id="form">
+            <div class="user-box">
+                <input type="text" name="cname" required>
+                <label>Company Name</label>
+            </div>
+            <div class="user-box">
+                <input type="text" name="reporturl" required>
+                <label>Report Url or Report Mail</label>
+            </div>
+            <div class="user-box">
+                <input type="text" name="domain" required>
+                <label>Scope Domain</label>
+            </div>
+            <div class="btt">
+                <a href="https://karthithehacker.com/gh0str3c0n/home.html" >
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                Go Back
+            </a>
+            <a href="#" onclick=myFunction() class="back" >
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                Create
+            </a></div>
+           
+        </form>
+        <script>
+            function myFunction() {
+                document.getElementById("GFG").submit();
+            }
+        </script>
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,13 @@
+rm ~/tools/v1l03t/subvv.txt
+rm ~/tools/v1l03t/v.txt
+ while read sub ;
+         do 
+           
+           while read subl ;
+              do
+                echo "$subl.$sub" >> ~/tools/v1l03t/subv.txt
+              done < ~/tools/v1l03t/sub.txt
+	done < $1  
+  cd ~/recon/gh0str3c0n/$2/
+  cat ~/tools/v1l03t/subv.txt | xargs -n1 -P500 bash ~/tools/v1l03t/.v1l03t
+  rm ~/tools/v1l03t/subvv.txt
