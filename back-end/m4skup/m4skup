@@ -1,6 +1,0 @@
-while read line;do
- host $line |grep address | awk '{print $NF}' >> ~/recon/gh0str3c0n/$1/m4skup.txt 
- host $line |grep address | awk '{print "Domain:"$1 " --->  " "Ip Adress:" $NF}' >> ~/recon/gh0str3c0n/$1/domainwithip.txt
- n=$((n+1))
-done < ~/recon/gh0str3c0n/$1/all.txt
-cat ~/recon/gh0str3c0n/$1/m4skup.txt | sort -u >~/recon/gh0str3c0n/$1/m4skup-all.txt
