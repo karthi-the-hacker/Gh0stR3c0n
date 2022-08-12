@@ -1,0 +1,6 @@
+autoconfig.cappriciosec.com
+app.cappriciosec.com
+autoconfig.cappriciosec.com
+autodiscover.cappriciosec.com
+blogs.cappriciosec.com
+app.cappriciosec.com
