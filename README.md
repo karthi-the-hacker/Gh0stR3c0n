@@ -29,15 +29,21 @@
 </h1>
 
 ## Steps to install for mac :
+<h1 align="center"><img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/245f4571-14d4-4069-90a7-259b2971229f/del3rk1-177dea3e-01d6-4c32-bcfd-8927b7bc8364.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI0NWY0NTcxLTE0ZDQtNDA2OS05MGE3LTI1OWIyOTcxMjI5ZlwvZGVsM3JrMS0xNzdkZWEzZS0wMWQ2LTRjMzItYmNmZC04OTI3YjdiYzgzNjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RDHFl6JxHrJPAZGg1gIyuGEOJCn9WMTLlNYVlu8Ql5E" width="100px" alt="Gh0stR3c0n"></h1>
 
-0. Download the zip file [Mac-Link](https://karthithehacker.com/gh0str3c0n/app-src/gh0str3con-mac.zip)
-1. unzip it
-2. move it to application folder
-3. git clone https://github.com/karthi-the-hacker/v1l03t.git
-4. cd v1l03t
-5. chmod +x *
-6. chmod +x .banner
-7. chmod +x .v1l03t
+
+- Direct Server download link for zip file [Mac-Link](https://karthithehacker.com/gh0str3c0n/app-src/gh0str3con-mac.zip)
+- Github Releases download link for zip file [Mac-Link](https://github.com/karthi-the-hacker/Gh0stR3c0n/releases/tag/Gh0stR3c0n-Mac-build)
+- unzip it
+- move it to application folder
+
+#### commands
+
+    $ mkdir ~/tools && cd ~/tools
+    $ git clone https://github.com/karthi-the-hacker/Gh0stR3c0n.git
+    $ cd Gh0stR3c0n/
+    $ chmod +x *
+    $ chmod +x .v1l03t
 
 # Sample usage :
 
