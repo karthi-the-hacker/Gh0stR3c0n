@@ -119,7 +119,32 @@
     dirsearch='false'
     eyewitness='false'
 ```
+### Required tools ⚒️ :
 
+- [Amass](https://github.com/OWASP/Amass)
+- [Assetfinder](https://github.com/tomnomnom/assetfinder)
+- [Subfinder](https://github.com/projectdiscovery/subfinder)
+- [Findomain](https://github.com/grim3/findomain)
+- [v1l03t](https://github.com/karthi-the-hacker/v1l03t)
+- [Github Search](https://github.com/gwen001/github-search)
+- [Naabu](https://github.com/projectdiscovery/naabu)
+- [Httpx](https://github.com/projectdiscovery/httpx)
+- [F1ndc0d3](https://github.com/karthi-the-hacker/f1ndc0d3)
+- [M4skup](https://github.com/karthi-the-hacker/M4skup)
+- [Gau](https://github.com/lc/gau)
+- [gobuster](https://github.com/OJ/gobuster)
+- [dirsearch](https://github.com/maurosoria/dirsearch)
+- [waybackurls](https://github.com/tomnomnom/waybackurls)
+- [ParamSpider](https://github.com/devanshbatham/ParamSpider)
+- [GF](https://github.com/tomnomnom/gf)
+- [webscreenshot](https://github.com/maaaaz/webscreenshot)
+
+### Requirements 🪛 :
+
+- [Go](https://go.dev/)
+- [Electron](https://www.electronjs.org/)
+- [Subfinder](https://github.com/projectdiscovery/subfinder)
+- [Python](https://www.python.org/)
       
 #### Happy hacking 💀
 #### Jai Hind 🇮🇳
