@@ -55,9 +55,11 @@
 <h2 align="center">Linux Supported family</h2>
 <h1 align="center">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="100px" alt="kali">
-<img align="center" src="https://brandslogos.com/wp-content/uploads/thumbs/debian-logo-vector.svg" width="100px" alt="debian">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" width="100px" alt="parrot os">
-  <img align="center" src="https://www.backbox.org/wp-content/uploads/2018/09/website_backbox_text_black.png" width="100px" alt="blackbox">
+<img align="center" src="https://brandslogos.com/wp-content/uploads/thumbs/debian-logo-vector.svg" width="50px" alt="debian">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" width="70px" alt="parrot os">
+  <img align="center" src="https://www.backbox.org/wp-content/uploads/2018/09/website_backbox_text_black.png" width="100px"  alt="blackbox">
+<img align="center" src="https://assets.ubuntu.com/v1/17b68252-apple-touch-icon-180x180-precomposed-ubuntu.png" style="border-radius: 50%;" width="100px"  alt="ubuntu">
+  
   
   
 </h1>
