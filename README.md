@@ -91,11 +91,35 @@
     $ git clone https://github.com/karthi-the-hacker/Gh0stR3c0n.git
     $ cd Gh0stR3c0n/
     $ chmod +x *
+    $ nano back-end/config.env
     $ ./run.bash
+    
+### Alert ⚠️ : 
+ - Dont forgot to add your github token in config.env 
+ - By default some tools set in false if you want to make run change that value to true
+ 
+ ##### Example ✍️ :
 
 
+```env
+   gobuster='false'
+    change to 
+   gobuster='true'
+ ```
+##### config.env 💾 
 
+```env
+    github_token='your token'
+    from_email_username='not required'
+    from_email_password='not required'
+    to_email='not required'
+    v_1l03t='flase'
+    a_mass='false'
+    gobuster='false'
+    dirsearch='false'
+    eyewitness='false'
+```
 
       
-### Happy hacking 💀
-### Jai Hind 🇮🇳
+#### Happy hacking 💀
+#### Jai Hind 🇮🇳
