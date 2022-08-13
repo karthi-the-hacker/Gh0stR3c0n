@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://karthithehacker.com/gh0str3c0n/"><img src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/back-end/ico.png" width="200px" alt="Gh0stR3c0n"></a>
+  <a href="https://karthithehacker.com/gh0str3c0n/"><img src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/back-end/ico.png" width="400px" alt="Gh0stR3c0n"></a>
 </h1>
 
 <h2 align="center">Fast and customisable Web recon Tool.</h2>
@@ -29,6 +29,12 @@
  <h1 align="center"> <img align="center" src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/screenshots/4.png" width="700px" alt="Gh0stR3c0n"></h1>
  
 </h1>
+
+
+## Steps to install video for mac 👨🏽‍💻:
+
+<h1 align="center"><a href="https://youtu.be/VtLeeLMG-Do" target="_blank"><img align="center" src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/screenshots/yt-thumpnail.png" width="700px" alt="Gh0stR3c0n"><a></h1>
+
 
 ## Steps to install for mac 👨🏽‍💻:
 <h1 align="center"><img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/245f4571-14d4-4069-90a7-259b2971229f/del3rk1-177dea3e-01d6-4c32-bcfd-8927b7bc8364.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI0NWY0NTcxLTE0ZDQtNDA2OS05MGE3LTI1OWIyOTcxMjI5ZlwvZGVsM3JrMS0xNzdkZWEzZS0wMWQ2LTRjMzItYmNmZC04OTI3YjdiYzgzNjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RDHFl6JxHrJPAZGg1gIyuGEOJCn9WMTLlNYVlu8Ql5E" width="100px" alt="Gh0stR3c0n"></h1>
