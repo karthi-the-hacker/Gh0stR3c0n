@@ -3,7 +3,7 @@
   <a href="https://nuclei.projectdiscovery.io"><img src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/back-end/ico.png" width="200px" alt="Nuclei"></a>
 </h1>
 
-<h4 align="center">Fast and customisable vulnerability scanner based on simple YAML based DSL.</h4>
+<h4 align="center">Fast and customisable Web recon Tool.</h4>
 
 ![alt text](https://github.com/karthi-the-hacker/v1l03t/raw/main/anime.gif)
 
