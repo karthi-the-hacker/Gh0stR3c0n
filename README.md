@@ -33,7 +33,7 @@
 
 ## Steps to install video for mac 👨🏽‍💻:
 
-<h1 align="center"><a href="https://youtu.be/VtLeeLMG-Do" target="_blank"><img align="center" src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/screenshots/yt-thumpnail.png" width="700px" alt="Gh0stR3c0n"><a></h1>
+<h1 align="center"><a href="https://youtu.be/VtLeeLMG-Do" target="_blank"><img align="center" src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/screenshots/git-mac.png" width="700px" alt="Gh0stR3c0n"><a></h1>
 
 
 ## Steps to install for mac 👨🏽‍💻:
@@ -82,23 +82,10 @@
     $ cd Gh0stR3c0n/
     $ chmod +x *
     $ ./run.bash
-# Sample usage ⚠ :
 
 
 
 
-# Syntax :
-
-# For basic subdomain bruteforce 
-      ./v1l03t subdomain.txt 
-       
-# Finding subdomains of subdomains 
-      ./v1l03t subdomain.txt sub ~/recon/(your company name)/v1l03t/v1l03t.txt
       
-# Happy hacking 💀
-# Jai Hind 🇮🇳
-
-All in one web Recon app
-Client app Link(Mac) :- https://karthithehacker.com/gh0str3c0n/app-src/gh0str3con-mac.zip
-
-open terminal go to ghost recon path and type xattr -cr gh0str3con.app
+### Happy hacking 💀
+### Jai Hind 🇮🇳
