@@ -45,8 +45,35 @@
     $ git clone https://github.com/karthi-the-hacker/Gh0stR3c0n.git
     $ cd Gh0stR3c0n/
     $ chmod +x *
-    $ chmod +x .v1l03t
+    $ ./run.bash
 
+
+
+
+## Steps to install for Linux 🐧 👨🏽‍💻:
+<h1 align="center"><img align="center" src="https://www.freepnglogos.com/uploads/linux-png/linux-file-tux-enhanced-svg-wikimedia-commons-9.png" width="100px" alt="Gh0stR3c0n"></h1>
+<h2 align="center">Linux Supported family</h2>
+<h1 align="center">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="100px" alt="kali">
+<img align="center" src="https://brandslogos.com/wp-content/uploads/thumbs/debian-logo-vector.svg" width="100px" alt="debian">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" width="100px" alt="parrot os">
+  <img align="center" src="https://www.backbox.org/wp-content/uploads/2018/09/website_backbox_text_black.png" width="100px" alt="blackbox">
+  
+  
+</h1>
+
+- Direct Server download link for zip file [Mac-Link](https://karthithehacker.com/gh0str3c0n/app-src/gh0str3con-mac.zip)
+- Github Releases download link for zip file [Mac-Link](https://github.com/karthi-the-hacker/Gh0stR3c0n/releases/tag/Gh0stR3c0n-Mac-build)
+- unzip it
+- move it to application folder
+
+#### commands 🕹️ :
+
+    $ mkdir ~/tools && cd ~/tools
+    $ git clone https://github.com/karthi-the-hacker/Gh0stR3c0n.git
+    $ cd Gh0stR3c0n/
+    $ chmod +x *
+    $ ./run.bash
 # Sample usage ⚠ :
 
 
