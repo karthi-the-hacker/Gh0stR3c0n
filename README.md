@@ -5,13 +5,11 @@
 
 <h4 align="center">Fast and customisable Web recon Tool.</h4>
 
-![alt text](https://karthithehacker.com/gh0str3c0n/gh0str3c0n.gif)
+![alt text](https://karthithehacker.com/gh0str3c0n/l.gif)
 
 Steps to install :
-im Happy to say this you dont need to install any third party service to run my tool 😃
-its pure bash ❤️️
 
-0. mkdir ~/recon &>/dev/null
+0. Download the zip file https://karthithehacker.com/gh0str3c0n/app-src/gh0str3con-mac.zip
 1. mkdir ~/tools &>/dev/null
 2. cd ~/tools/
 3. git clone https://github.com/karthi-the-hacker/v1l03t.git
