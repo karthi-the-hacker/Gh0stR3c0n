@@ -3,15 +3,24 @@
   <a href="https://karthithehacker.com/gh0str3c0n/"><img src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/back-end/ico.png" width="200px" alt="Gh0stR3c0n"></a>
 </h1>
 
-<h4 align="center">Fast and customisable Web recon Tool.</h4>
+<h2 align="center">Fast and customisable Web recon Tool.</h2>
 
-![alt text](https://karthithehacker.com/gh0str3c0n/l.gif)
+![alt text](https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/l.gif)
+# Features
 
-Steps to install :
+ - SubDomain Recon.
+ - Finding IP's from Domains and Subdomains.
+ - Finding Live with unique open ports.
+ - Finding open ports. 
+ - Directory Brute forcing and Web crawling.
+ - Paramater crawling.
+ - Partten matching (RCE,IDOR,SQLI,SSRF,SSTI,Open Redirect and More).
 
-0. Download the zip file https://karthithehacker.com/gh0str3c0n/app-src/gh0str3con-mac.zip
-1. mkdir ~/tools &>/dev/null
-2. cd ~/tools/
+## Steps to install for mac :
+
+0. Download the zip file [Mac-Link](https://karthithehacker.com/gh0str3c0n/app-src/gh0str3con-mac.zip)
+1. unzip it
+2. move it to application folder
 3. git clone https://github.com/karthi-the-hacker/v1l03t.git
 4. cd v1l03t
 5. chmod +x *
