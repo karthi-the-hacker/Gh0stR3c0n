@@ -1,11 +1,11 @@
 <h1 align="center">
   <br>
-  <a href="https://nuclei.projectdiscovery.io"><img src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/back-end/ico.png" width="200px" alt="Nuclei"></a>
+  <a href="https://karthithehacker.com/gh0str3c0n/"><img src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/back-end/ico.png" width="200px" alt="Gh0stR3c0n"></a>
 </h1>
 
 <h4 align="center">Fast and customisable Web recon Tool.</h4>
 
-![alt text](https://github.com/karthi-the-hacker/v1l03t/raw/main/anime.gif)
+![alt text](https://karthithehacker.com/gh0str3c0n/gh0str3c0n.gif)
 
 Steps to install :
 im Happy to say this you dont need to install any third party service to run my tool 😃
