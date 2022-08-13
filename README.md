@@ -45,7 +45,7 @@
 - unzip it
 - move it to application folder
 
-#### commands 🕹️ :
+#### commands backend-setup-for-mac🕹️ :
 
     $ mkdir ~/tools && cd ~/tools
     $ git clone https://github.com/karthi-the-hacker/Gh0stR3c0n.git
@@ -70,12 +70,22 @@
   
 </h1>
 
-- Direct Server download link for zip file [Mac-Link](https://karthithehacker.com/gh0str3c0n/app-src/gh0str3con-mac.zip)
-- Github Releases download link for zip file [Mac-Link](https://github.com/karthi-the-hacker/Gh0stR3c0n/releases/tag/Gh0stR3c0n-Mac-build)
-- unzip it
-- move it to application folder
+- Direct Server download link for zip file [Linux-deb-Link](https://karthithehacker.com/gh0str3c0n/app-src/gh0str3con_1.0.0_amd64.deb)
+- Github Releases download link for zip file [Linux-deb-Link](https://github.com/karthi-the-hacker/Gh0stR3c0n/releases/tag/Gh0stR3c0n-Mac-build)
+- Direct Server download link for zip file [Linux-Source-Link](https://karthithehacker.com/gh0str3c0n/app-src/gh0str3con-1.0.0-source-linux.tar.xz)
+- Github Releases download link for zip file [Linux-Source-Link](https://github.com/karthi-the-hacker/Gh0stR3c0n/releases/tag/Gh0stR3c0n-Mac-build)
+- If you downloaded Linux source unzip it 
+- If you downloades deb file open the terminal and enter the following commands
+  
+#### Deb install guide :
+  
+      $ sudo dpkg -i gh0str3con_1.0.0_amd64.deb
+  
+#### Source install guide :
+  
+      $ tar -xf gh0str3con-1.0.0-source-linux.tar.xz
 
-#### commands 🕹️ :
+#### commands backend-setup-for-linux 🕹️ :
 
     $ mkdir ~/tools && cd ~/tools
     $ git clone https://github.com/karthi-the-hacker/Gh0stR3c0n.git
