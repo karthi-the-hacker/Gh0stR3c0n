@@ -5,7 +5,7 @@
 
 <h2 align="center">Fast and customisable Web recon Tool.</h2>
 
-![alt text](https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/l.gif)
+<h1 aligen="center"><a href="https://karthithehacker.com/gh0str3c0n/"><img src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/l.gif"  width="1000px"></a></h1>
 ## Features ⚙️ :
 
  - SubDomain Recon.
