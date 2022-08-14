@@ -67,9 +67,9 @@
     $ ./run.bash
 
 
-## Steps to install video for mac 👨🏽‍💻:
+## Steps to install video for Linux 🐧 👨🏽‍💻:
 
-<h1 align="center"><a href="https://youtu.be/HWuiaPa7wMs" target="_blank"><img align="center" src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/screenshots/git-mac.png" width="700px" alt="Gh0stR3c0n"><a></h1>
+<h1 align="center"><a href="https://youtu.be/HWuiaPa7wMs" target="_blank"><img align="center" src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/screenshots/git-linux.png" width="700px" alt="Gh0stR3c0n"><a></h1>
 
 
 
