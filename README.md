@@ -42,7 +42,7 @@
 
 
 - Direct Server download link for zip file [Mac-Link](https://karthithehacker.com/gh0str3c0n/app-src/gh0str3con-mac.zip)
-- Github Releases download link for zip file [Mac-Link](https://github.com/karthi-the-hacker/Gh0stR3c0n/releases/tag/Gh0stR3c0n-Mac-build)
+- Github Releases download link for zip file [Mac-Link](https://github.com/karthi-the-hacker/Gh0stR3c0n/releases/tag/Gh0stR3c0n-build)
 - unzip it
 - move it to application folder
 
@@ -88,9 +88,9 @@
 </h1>
 
 - Direct Server download link for zip file [Linux-deb-Link](https://karthithehacker.com/gh0str3c0n/app-src/gh0str3con_1.0.0_amd64.deb)
-- Github Releases download link for zip file [Linux-deb-Link](https://github.com/karthi-the-hacker/Gh0stR3c0n/releases/tag/Gh0stR3c0n-Mac-build)
+- Github Releases download link for zip file [Linux-deb-Link](https://github.com/karthi-the-hacker/Gh0stR3c0n/releases/tag/Gh0stR3c0n-build)
 - Direct Server download link for zip file [Linux-Source-Link](https://karthithehacker.com/gh0str3c0n/app-src/gh0str3con-1.0.0-source-linux.tar.xz)
-- Github Releases download link for zip file [Linux-Source-Link](https://github.com/karthi-the-hacker/Gh0stR3c0n/releases/tag/Gh0stR3c0n-Mac-build)
+- Github Releases download link for zip file [Linux-Source-Link](https://github.com/karthi-the-hacker/Gh0stR3c0n/releases/tag/Gh0stR3c0n-build)
 - If you downloaded Linux source unzip it 
 - If you downloades deb file open the terminal and enter the following commands
   
