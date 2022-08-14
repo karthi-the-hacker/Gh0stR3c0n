@@ -45,12 +45,24 @@
 - unzip it
 - move it to application folder
 
+#### Common python required libraries 📚 :
+
+      $ pip install pysqlite
+      $ pip3 install pysqlite
+      $ pip install fastapi
+      $ pip install "uvicorn[standard]"
+      $ pip3 install fastapi
+      $ pip3 install "uvicorn[standard]"
+      $ pip install Jinja2
+      $ pip3 install Jinja2
+
 #### commands backend-setup-for-mac🕹️ :
 
     $ mkdir ~/tools && cd ~/tools
     $ git clone https://github.com/karthi-the-hacker/Gh0stR3c0n.git
     $ cd Gh0stR3c0n/
     $ chmod +x *
+    $ nano back-end/config.env
     $ ./run.bash
 
 
@@ -84,8 +96,20 @@
 #### Source install guide :
   
       $ tar -xf gh0str3con-1.0.0-source-linux.tar.xz
+ 
+#### Common python required libraries 📚 :
 
-#### commands backend-setup-for-linux 🕹️ :
+      $ pip install pysqlite
+      $ pip3 install pysqlite
+      $ pip install fastapi
+      $ pip install "uvicorn[standard]"
+      $ pip3 install fastapi
+      $ pip3 install "uvicorn[standard]"
+      $ pip install Jinja2
+      $ pip3 install Jinja2
+
+
+#### Commands backend-setup-for-linux 🕹️ :
 
     $ mkdir ~/tools && cd ~/tools
     $ git clone https://github.com/karthi-the-hacker/Gh0stR3c0n.git
@@ -144,15 +168,15 @@
 - [Go](https://go.dev/)
 - [Electron](https://www.electronjs.org/)
 - [Subfinder](https://github.com/projectdiscovery/subfinder)
-- [Python](https://www.python.org/)
+- [Python](https://www.python.org/) 🐍
       
-### Company Profile
+### Company Profile 🏢 :
 
 <a href="https://university.cappriciosec.com/" ><img src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/screenshots/banner/1.png"  width="200px" ></a>
 <a href="https://www.cappriciosec.com/" ><img src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/screenshots/banner/2.png" width="200px" ></a>
 <a href="https://www.instagram.com/cappriciosec/" ><img src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/screenshots/banner/6.png" width="200px" ></a>
 
-### Contact info 
+### Contact info 📱 :
 
 <a href="https://karthithehacker.com/" ><img src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/screenshots/banner/3.png"  width="200px" ></a>
 <a href="https://www.youtube.com/karthithehacker" ><img src="https://github.com/karthi-the-hacker/Gh0stR3c0n/raw/main/screenshots/banner/y.png" width="200px" ></a>
