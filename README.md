@@ -172,7 +172,6 @@
 
 - [Go](https://go.dev/)
 - [Electron](https://www.electronjs.org/)
-- [Subfinder](https://github.com/projectdiscovery/subfinder)
 - [Python](https://www.python.org/) 🐍
       
 ### Company Profile 🏢 :
