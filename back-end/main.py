@@ -56,7 +56,7 @@ def landing(request: Request):
 def adddata(request: Request, cname: str = Form(...), reporturl: str = Form(...), domain: str = Form(...)):
     conn = sqlite3.connect("recon.db", check_same_thread=False)
     c = conn.cursor()   
-    os.system("mkdir ~/recon/gh0str3c0n/"+cname)
+    os.system("mkdir ~/recon/gh0str3con/"+cname)
     c.execute("INSERT INTO recon VALUES('"+cname+"','"+reporturl+"','"+today+"');")
     conn.commit()
     conn.close()
