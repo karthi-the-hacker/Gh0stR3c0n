@@ -41,7 +41,7 @@ def landing(request: Request):
 
 @app.get('/finish')
 def landing(request: Request):
-    os.system("python ~/tools/Gh0stR3con/back-end/d3vnull.py "+company+ " &")
+    os.system("python ~/tools/Gh0stR3c0n/back-end/d3vnull.py "+company+ " &")
     
     my_header = request.headers.get('User-Agent')
     if('Gh0stR3c0n' in my_header):
