@@ -14,7 +14,7 @@
  - Finding Live with unique open ports.
  - Finding open ports. 
  - Directory Brute forcing and Web crawling.
- - Paramater crawling.
+ - Parameter crawling.
  - Partten matching (RCE,IDOR,SQLI,SSRF,SSTI,Open Redirect and More).
 
 
