@@ -7,6 +7,8 @@ from datetime import date
 
 today = str(date.today())
 
+
+
 global dbdata
 dbdata = ""
 cwd = os.getcwd()
