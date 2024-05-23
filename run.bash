@@ -6,4 +6,5 @@ set back-end/ +a
 
 cd back-end/
 
+
 uvicorn main:app --reload &
